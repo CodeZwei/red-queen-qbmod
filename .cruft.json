@@ -1,6 +1,6 @@
 {
     "template": "https://github.com/CodeZwei/cruft-qbmod",
-    "commit": "77088c83c5428c77e58aa93f65b80acfe46a2223",
+    "commit": "2d7ef71c47717853f4e3ff347114ce9e59b950c6",
     "context": {
         "cookiecutter": {
             "mod_name": "Red Queen",
