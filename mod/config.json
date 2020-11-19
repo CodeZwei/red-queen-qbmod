@@ -1,0 +1,16 @@
+{
+  "id": "red-queen",
+  "name": "Red Queen",
+  "author": {
+    "name": "CodeZwei",
+    "url": "https://github.com/CodeZwei"
+  },
+  "type": "community",
+  "short_description": "Give Queen Red Hair.",
+  "long_description": "Red Hair",
+  "version": "0.1.0",
+  "api": "1",
+  "dependencies": [],
+  "script": "mod.js",
+  "thumbnails": []
+}

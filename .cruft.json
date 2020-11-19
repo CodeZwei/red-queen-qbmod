@@ -1,0 +1,17 @@
+{
+    "template": "https://github.com/CodeZwei/cruft-qbmod",
+    "commit": "a961f313db58c3d811c2d1f7e67660196133c063",
+    "context": {
+        "cookiecutter": {
+            "mod_name": "Red Queen",
+            "mod_id": "red-queen",
+            "repo_name": "red-queen-qbmod",
+            "github_username": "CodeZwei",
+            "short_description": "Give Queen Red Hair.",
+            "long_description": "Red Hair",
+            "version": "0.1.0",
+            "_template": "https://github.com/CodeZwei/cruft-qbmod"
+        }
+    },
+    "directory": null
+}
