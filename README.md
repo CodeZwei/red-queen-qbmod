@@ -4,15 +4,13 @@ _Give Queen Red Hair._
 
 A mod for [Queen's Brothel](https://queensbrothel.com/)
 
-Red Hair
-
-## TODO
+## Improvements
 Hair can be cleaned up a bit, this breaks clothing previews and character portraits, I need to reexport those images as well.
 
 Some skins don't work well as they depended on Queen having black hair:
-Angel - Halo headband
-Orc - Black Undercut
-Garnet - One sliver missing from the left side of the hair
+- Angel - Halo headband
+- Orc - Black Undercut
+- Garnet - One sliver missing from the left side of the hair
 
 Luckily the devil skin works quite well with the headband.
 
